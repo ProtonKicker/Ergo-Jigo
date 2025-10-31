@@ -8,7 +8,3 @@ Approximate:
 
 budget:
 < 1000 bucks
-#hello
-
-
-
