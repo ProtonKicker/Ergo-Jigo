@@ -1,5 +1,6 @@
 confluence link
 https://confluence.calsol.dev/spaces/CG/pages/65733609/Ergo+Jig+Fall+2025
+or shortened: https://t.ly/eO5XS
 
 Approximate:
 
