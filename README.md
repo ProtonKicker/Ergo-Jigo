@@ -11,3 +11,10 @@ Approximate:
 
 budget:
 < 1000 bucks
+
+
+the rule book files is from:
+https://assets.worldsolarchallenge.org/app/uploads/2024/12/04154642/3297_2025_bwsc_regulations_release_v20_published_28_october_2024.pdf
+
+manakin is from
+https://cms.worldsolarchallenge.org/app/uploads/2025/03/3285_pvc_pat_drawing-1.pdf
