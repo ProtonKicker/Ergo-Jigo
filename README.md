@@ -22,5 +22,7 @@ Half way through the designing process we discovered the PVC Pat, the official m
 The most recent idea is to use a combination of wood and 3030 extrusions, and use 3D printed plastic for connection parts and LM8 bearing w/ 8mm shaft for rotating joints. 
 
 ## Resources & Misc stuff
+
 **Regs we referenceed**: https://assets.worldsolarchallenge.org/app/uploads/2024/12/04154642/3297_2025_bwsc_regulations_release_v20_published_28_october_2024.pdf4
+
 **Some CAD we made during the process**: https://confluence.calsol.dev/spaces/CG/pages/65733609/Ergo+Jig+Fall+2025?focusedCommentId=65733895#comment-65733895
