@@ -19,7 +19,7 @@ Half way through the designing process we discovered the PVC Pat, the official m
 
 26 spring the leads changed and seems like the hard $1000 budget is gone while when we tried to make it ppl pointed out its too expsensive, and that was already toward the end of the semester. No work was done during the summer.
 
-The most recent idea is to use a combination of wood and 3030 extrusions, and use 3D printed plastic for the joints. 
+The most recent idea is to use a combination of wood and 3030 extrusions, and use 3D printed plastic for connection parts and LM8 bearing w/ 8mm shaft for rotating joints. 
 
 ## Resources
 **Regs we referenceed**: https://assets.worldsolarchallenge.org/app/uploads/2024/12/04154642/3297_2025_bwsc_regulations_release_v20_published_28_october_2024.pdf
