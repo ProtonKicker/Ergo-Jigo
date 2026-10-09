@@ -50,6 +50,7 @@ Manufacturing
 - if still using 3D printed parts, make sure the files are saved so people could print it later afterwards if it broke in like 3 yrs
 
 ## Resources & Misc stuff
+**CAD**: https://github.com/ProtonKicker/Ergo-Jigo/blob/main/Bars/ASM.SLDASM ( the CAD is partially parametric, but sketches are not built very well and some might break when you change parameters)
 
 **Regs we referenceed**: https://assets.worldsolarchallenge.org/app/uploads/2024/12/04154642/3297_2025_bwsc_regulations_release_v20_published_28_october_2024.pdf4
 
