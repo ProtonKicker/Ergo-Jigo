@@ -50,16 +50,9 @@ Manufacturing
 - if still using 3D printed parts, make sure the files are saved so people could print it later afterwards if it broke in like 3 yrs
 
 ## Resources & Misc stuff
-**CAD**: https://github.com/ProtonKicker/Ergo-Jigo/blob/main/Bars/ASM.SLDASM ( the CAD is partially parametric, but sketches are not built very well and some might break when you change parameters)
+
+**CAD**: https://github.com/ProtonKicker/Ergo-Jigo/blob/main/Bars/ASM.SLDASM ( the CAD is partially parametric, but sketches are not built very well and some might break when you change parameters. Download the entire folder/repo )
 
 **Regs we referenceed**: https://assets.worldsolarchallenge.org/app/uploads/2024/12/04154642/3297_2025_bwsc_regulations_release_v20_published_28_october_2024.pdf4
 
 **Some CAD we made during the process**: https://confluence.calsol.dev/spaces/CG/pages/65733609/Ergo+Jig+Fall+2025?focusedCommentId=65733895#comment-65733895
-
-## Cost ref
-
-3030 1500mm - $100 with shipping & tax - AliExpress
-
-3030 5t - $30 - McMaster
-
-3030 > 2020 > wood
