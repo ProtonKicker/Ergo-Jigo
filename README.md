@@ -19,7 +19,7 @@ Half way through the designing process we discovered the PVC Pat, the official m
 
 26 spring the leads changed and seems like the hard $1000 budget is gone while when we tried to make it ppl pointed out its too expsensive, and that was already toward the end of the semester. No work was done during the summer.
 
-The most recent idea is to use a combination of wood and 3030 extrusions, and use 3D printed plastic for connection parts and LM8 bearing w/ 8mm shaft for rotating joints. 
+The most recent idea is to use a combination of wood and 3030 extrusions, use 3D printed plastic for connection parts and LM8 bearing w/ 8mm shaft for rotating joint, and M6 cam levers ( like the one on bicycle seats ) for locking the bars to position. Check the CAD and it shold at lesat make some sense.  
 
 ## What needs to be done
 
